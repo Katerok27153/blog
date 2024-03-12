@@ -25,7 +25,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Прикладываю информатику в дружбе народов.
+bio: Учусь прикладывать информатику в дружбе народов.
 
 # Interests to show in About widget
 interests:
