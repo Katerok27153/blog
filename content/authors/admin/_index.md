@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студентка ФФМиЕН Российскоро университета дружбы народов
+role: Студентка ФФМиЕН Российского университета дружбы народов
 
 # Organizations/Affiliations to show in About widget
 organizations:
