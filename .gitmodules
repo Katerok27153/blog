@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Katerok27153/Katerok27153.github.io.git
+	branch = main
