@@ -39,8 +39,8 @@ interests:
 education:
   courses:
     - course : Среднее общее образование. МБОУ Лицей №40.
-  
-
+    
+    
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
