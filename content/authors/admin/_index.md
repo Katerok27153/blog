@@ -48,37 +48,57 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 45
+        icon: code
         icon_pack: fas
-      - name: SQL
+      - name: Assembler
         description: ''
-        percent: 40
-        icon: database
+        percent: 20
+        icon: gears
         icon_pack: fas
+      - name: java
+        description: ''
+        percent: 10
+        icon: java
+        icon_pack: fab
+      - name: github
+        description: ''
+        percent: 60
+        icon: github
+        icon_pack: fab
+      - name: linux
+        description: ''
+        percent: 80
+        icon: linux
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: English
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 0.0001
+        icon: language
         icon_pack: fas
-      - name: Cats
+      - name: Paintings by numbers
         description: ''
         percent: 100
-        icon: cat
+        icon: paint-brush
         icon_pack: fas
-      - name: Photography
+      - name: Dances
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 65
+        icon: child
+        icon_pack: fas
+      - name: Shooting
+        description: ''
+        percent: 75
+        icon: arrows
         icon_pack: fas
 
 # Social/Academic Networking
