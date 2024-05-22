@@ -10,7 +10,7 @@ baseURL: 'https://katerok27153.github.io/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ru
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
