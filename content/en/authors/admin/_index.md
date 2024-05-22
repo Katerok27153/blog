@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Верниковская Екатерина Андреевна
+title: Vernikovskaya Ekaterina Andreevna
 
 # Name pronunciation (optional)
-name_pronunciation: Верниковская Екатерина Андреевна
+name_pronunciation: Vernikovskaya Ekaterina Andreevna
 
 # Full name (for SEO)
-first_name: Екатерина
-last_name: Верниковская
+first_name: Ekaterina
+last_name: Vernikovskaya
 
 # Status emoji
 status:
@@ -17,28 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студентка ФФМиЕН Российского университета дружбы народов
+role: Student of the FFMiEN of the Peoples' Friendship University of Russia
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский университет дружбы народов
+  - name: Peoples' Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Учусь прикладывать информатику в дружбе народов.
+bio: I am learning to apply computer science in the friendship of peoples.
 
 # Interests to show in About widget
 interests:
   - K-Pop
-  - Программирование
-  - Танцы
-  - Картины по номерам
-  - Баскетбол
+  - Programming
+  - Dances
+  - Paintings by numbers
+  - Basketball
 
 # Education to show in About widget
 education:
   courses:
-    - course : Среднее общее образование. МБОУ Лицей №40.
+    - course : Secondary general education. MBOU Lyceum №40.
     
     
 # Skills
@@ -144,5 +144,5 @@ social:
 highlight_name: true
 ---
 
-Верниковская Екатерина - студентка Российского университета дружбы народов, обучающаяся на факультете физико-математических и естественных наук на направлении "Прикладная информатика" (09.03.03). Создала этот сайт для размещения информации о своих достижениях и проектах. Любит вкусно поесть. Хочет жить на берегу океана в очень тёплой стране! И чтобы пальмы были обязательно!
+Ekaterina Vernikovskaya is a student of the Peoples' Friendship University of Russia, studying at the Faculty of Physics, Mathematics and Natural Sciences in the field of Applied Informatics (03/09/03). She created this website to post information about her achievements and projects. He likes to eat delicious food. He wants to live by the ocean in a very warm country! And there must be palm trees!
 {style="text-align: justify;"}

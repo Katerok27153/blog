@@ -69,7 +69,7 @@ sections:
           location: Moscow
           date_start: '2023-09-01'
           date_end: ''
-          description: Учусь на направлении "Прикладная информатика" (09.03.03)
+          description: I am studying in the direction of "Applied Informatics" (09.03.03)
     design:
       columns: '2'
   - block: accomplishments
@@ -88,20 +88,20 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2021-09-01'
-          description: 'Разработала приложение на языке Java. Сертификат, к сожалению, не сохранился, т.к я его удалила :('
+          description: 'Developed an application in Java. Unfortunately, the certificate was not saved, because I deleted it :('
           icon: itsamsung
           organization: IT School Samsung
           organization_url: https://innovationcampus.ru/itschool/
           title: Java Mobile Development
           url: ''
-        - certificate_url:
+        - certificate_url: https://stepik.org/cert/2451000
           date_end: ''
           date_start: '2024-04-01'
-          description: В процессе прохождения курса.
+          description:
           icon: stepic
           organization: Stepic
           organization_url: https://stepik.org/learn
-          title: Введение в Linux
+          title: Introduction to Linux
           url: ''
     design:
       columns: '2'
