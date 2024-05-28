@@ -1,5 +1,5 @@
 ---
-title: Playlist with screencasts of the course on stepik
+title: Playlist with screencasts of the course on stepi
 summary: Introduction to Linux
 tags:
   - Deep Learning

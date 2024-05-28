@@ -1,5 +1,5 @@
 ---
-title: Плейлист со скринкастами выполнения курса на stepik
+title: Плейлист со скринкастами выполнения курса на stepi
 summary: Введение в Linux
 tags:
   - Deep Learning
