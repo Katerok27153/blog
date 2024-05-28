@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1Ge-jPJ9EcHpcPOzNlm1jHyfeU1AuJLTv/view?usp=drive_link'
+url_pdf: 'https://drive.google.com/file/d/1XuKyu4zcfJMt1UEUBfvjS-7o-ETQ0JBP/view?usp=drive_link'
 url_slides: ''
 url_video: ''
 
