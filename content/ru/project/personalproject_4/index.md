@@ -1,12 +1,12 @@
 ---
-title: Канал на YouTube с записями выполнения лабораторных работ
-summary: Операционные системы
+title: Плейлист со скринкастами выполнения курса на stepik
+summary: Введение в Linux
 tags:
   - Deep Learning
 date: '2024-05-9T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.youtube.com/channel/UCXY2YeHk8PgZ16vgOxLKVGw'
+external_link: 'https://youtube.com/playlist?list=PLoS3SalWlcKZFKKq1gGuF53gj742IKCoB&si=Wa4y3WnSoqv5Ofz5'
 
 image:
   caption: Photo by rawpixel on Unsplash
