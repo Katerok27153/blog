@@ -1,6 +1,6 @@
 ---
-title: Отчёт по прохождению курса на stepik
-summary: Введение в Linux
+title: Stepik Course Completion Report
+summary: Introduction to Linux
 tags:
   - Deep Learning
 date: '2024-05-9T00:00:00Z'
