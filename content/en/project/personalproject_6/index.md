@@ -1,19 +1,19 @@
 ---
-title: Stepik Course Completion Report
+title: Playlist with screencasts of the course on stepik
 summary: Organization of computer network administration
 tags:
   - Deep Learning
 date: '2024-05-9T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.youtube.com/playlist?list=PLoS3SalWlcKYgbHlu3-OhjD5HYemhTu4g'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1k06JaJ2co5S2yx1OcB7yEzzANUSVN19U/view?usp=sharing'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 

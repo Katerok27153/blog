@@ -103,10 +103,10 @@ sections:
           organization_url: https://stepik.org/learn
           title: Introduction to Linux
           url: ''
-        - certificate_url: 'Certificate is not issued'
+        - certificate_url: 
           date_end: ''
           date_start: '2024-11-29'
-          description:
+          description: 'Certificate is not issued'
           icon: stepic
           organization: Stepic
           organization_url: https://stepik.org/learn

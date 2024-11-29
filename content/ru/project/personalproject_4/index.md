@@ -1,19 +1,19 @@
 ---
-title: Плейлист со скринкастами выполнения курса на stepik
-summary: Введение в Linux
+title: Отчёт по прохождению курса на stepik
+summary: Организация администрирования компьютерных сетей
 tags:
   - Deep Learning
 date: '2024-05-9T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://youtube.com/playlist?list=PLoS3SalWlcKZFKKq1gGuF53gj742IKCoB&si=Wa4y3WnSoqv5Ofz5'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1epCg0BXiuVR2XUZD-DQx2uU8DXHL0D_0/view?usp=sharing'
 url_slides: ''
 url_video: ''
 
