@@ -103,6 +103,15 @@ sections:
           organization_url: https://stepik.org/learn
           title: Введение в Linux
           url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2024-11-29'
+          description: 'Сертификат не выдаётся'
+          icon: stepic
+          organization: Stepic
+          organization_url: https://stepik.org/learn
+          title: Организация администрирования компьютерных сетей
+          url: ''
     design:
       columns: '2'
   - block: collection
