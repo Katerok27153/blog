@@ -34,6 +34,7 @@ interests:
   - Dances
   - Paintings by numbers
   - Basketball
+  - Konki
 
 # Education to show in About widget
 education:
