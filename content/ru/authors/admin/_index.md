@@ -34,8 +34,6 @@ interests:
   - Танцы
   - Картины по номерам
   - Баскетбол
-  - Коньки
-  - Коньки 1
 
 # Education to show in About widget
 education:
